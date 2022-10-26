@@ -6,18 +6,18 @@
 <div align="center">
 Hello, We are from iOS Bootcamp "Yagom Academy Career Starter Camp 6th"
 
-<div align="left">
+<div align="center">
 
 ## Attendance
-<div align="left">
+<div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYagomCareerStarterCamp-6&count_bg=%2393A287&title_bg=%2320883D&icon=apple.svg&icon_color=%23E7E7E7&title=We+are+studying+SWIFT+together+(today/total)&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div align="left">
+<div align="center">
 
 ## Skills & Tools
 
-<div align="left">
+<div align="center">
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) 
 ![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) 
